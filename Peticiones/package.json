@@ -1,0 +1,14 @@
+{
+  "name": "peticiones",
+  "version": "1.0.0",
+  "description": "Esta es una practica de cinta roja para hacer una peticion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Angel MR",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}

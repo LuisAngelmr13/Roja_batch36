@@ -1,0 +1,14 @@
+{
+  "name": "miprimerbacken",
+  "version": "1.0.0",
+  "description": "Primer backen en express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devf cinta roja Luis Angel MR",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
